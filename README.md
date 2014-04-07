@@ -5,6 +5,8 @@ Another Raspberry Pi powered TwitterBot
 
 Polls for search term "b.s. johnson" and retweets any found via @BSJohnsonInfo (Twitter account linked to bsjohnson.info website)
 
+https://twitter.com/bsjohnsoninfo
+
 Exceptions are:
 
 - retweets
